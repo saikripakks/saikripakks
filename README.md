@@ -95,13 +95,6 @@ print(me.motto())
 
 ---
 
-📊 GitHub Stats
-<div align="center">
-  <img height="180" src="https://github-stats-alpha.vercel.app/api?username=saikripakks&cc=0d1117&tc=70a5fd&ic=bf91f3&bc=0d1117" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikripakks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" />
-</div>
 
 ---
 
