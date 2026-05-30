@@ -202,7 +202,7 @@ print(me.motto())
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
 | **Tips PSC Academy** — Website & App Backend | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | Freelance backend powering a PSC coaching academy's website and mobile app; REST APIs for content delivery and user management |
-| **Snapzter** — Social Media App Backend | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Full social media backend with feed, media handling, and secure API layer; active since Aug 2024 |
+| **Snapzter** — Social Media App Backend | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Full social media backend with feed, media handling, and secure API layer; active since Aug 2024 |
 
 </div>
 
