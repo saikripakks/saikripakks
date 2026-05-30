@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saikripa-saseendran&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=saikripakks&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -93,6 +93,44 @@ print(me.motto())
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/saikripakks">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=saikripakks&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  </a>
+  <a href="https://github.com/saikripakks">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikripakks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+  </a>
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=saikripakks&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikripakks&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saikripakks&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+</div>
+
+---
 
 ## 💼 Work Experience
 
@@ -164,7 +202,7 @@ print(me.motto())
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
 | **Tips PSC Academy** — Website & App Backend | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | Freelance backend powering a PSC coaching academy's website and mobile app; REST APIs for content delivery and user management |
-| **Snapzter** — Social Media App Backend | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | Full social media backend with feed, media handling, and secure API layer; active since Aug 2024 |
+| **Snapzter** — Social Media App Backend | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Full social media backend with feed, media handling, and secure API layer; active since Aug 2024 |
 
 </div>
 
@@ -201,7 +239,7 @@ print(me.motto())
   <a href="mailto:saikripasaseendran@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/saikripa-saseendran-645a40133">
+  <a href="https://www.linkedin.com/in/saikripakks-645a40133">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://saikripasaseendran.kripzart.in">
