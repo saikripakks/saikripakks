@@ -105,10 +105,17 @@ print(me.motto())
 
 ---
 
-## 🔥 Streak Stats
-
+📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=saikripakks&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikripakks&theme=tokyonight" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikripakks&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikripakks&theme=tokyonight" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saikripakks&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saikripakks&theme=tokyonight&utcOffset=+5.30" />
 </div>
 
 ---
