@@ -121,13 +121,6 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saikripakks&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</div>
-
----
 
 ## 💼 Work Experience
 
